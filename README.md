@@ -1,0 +1,1 @@
+# sgx-openssl-static-libs
